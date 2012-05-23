@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FlickSampleActivity!</string>
+    <string name="app_name">FlickSample</string>
+    <string name="slide_duration">3000</string>
+</resources>
